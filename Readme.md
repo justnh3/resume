@@ -8,3 +8,5 @@ PhD Student in Earth and Environmental Sciences
 [Scripps Institution of Oceanography, UC San Diego](www.scripps.ucsd.edu) 
 BS + MS in Earth Sciences
 
+## Research Interests
+isotope geochemistry, low temperature geochemistry, non-traditional stable isotopes, chemical oceanography, Earth history
